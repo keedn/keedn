@@ -2,7 +2,7 @@
 <h1> kbogott <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <!-- Brief bio -->
-I’m a Computer Science and Engineering Undergraduate at University of Iowa with interests in Game and Full Stakc developement
+I’m a Computer Science and Engineering Undergraduate at University of Iowa with interests in Game and Full Stack developement
 
 <!-- Skills section with badges -->
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
