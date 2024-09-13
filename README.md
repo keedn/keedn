@@ -38,4 +38,4 @@ I’m a Computer Science and Engineering Undergraduate at University of Iowa wit
 ###  _Repositories_
 ----
 <!-- Link to Projects repository -->
-[**Projects**](https://github.com/keedn/Projects/wiki)
+[_**Project Portfolio**_](https://github.com/keedn/Projects/wiki)
