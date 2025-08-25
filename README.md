@@ -27,15 +27,4 @@ Current Computer Science and Engineering Undergraduate at University of Iowa | k
   </a>
 </p>
 
-<!-- GitHub Trophies section -->
-## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
-<p align="center">
-  <!-- GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=keedn&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
-</p>
 
-<!-- Repositories section -->
-###  _Repositories_
-----
-<!-- Link to Projects repository -->
-[_**Project Portfolio**_](https://github.com/keedn/Projects/wiki)
