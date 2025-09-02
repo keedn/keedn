@@ -15,11 +15,7 @@ Current Computer Science and Engineering Undergraduate at University of Iowa | k
 
 <!-- Links to GitHub profile and stats -->
 <p align="center">
-  <!-- Link to GitHub profile -->
-  <a href="https://github.com/keedn">
-    <!-- Top languages used -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keedn&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-  </a>
+
   <!-- Link to GitHub profile -->
   <a href="https://github.com/keedn">
     <!-- GitHub stats -->
